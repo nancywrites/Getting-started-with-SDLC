@@ -1,0 +1,22 @@
+site_name: Getting Started with SDLC
+nav:
+- Home: index.md
+- What is SDLC?: firstpage.md
+
+- Phases of SDLC:
+   - Planning: phases\planning.md
+   - Analysis: phases\analysis.md
+   - Design:   phases\design.md
+   - Development and Implementation:  phases\development.md
+   - Testing and Integration:  phases\testing.md
+   - Delivery and Maintenance:  phases\delivery.md
+- SDLC Methodologies:
+     - Waterfall: methods\waterfall.md
+     - Agile: methods\agile.md
+
+
+- Conclusion & Refrence: conclusion.md
+     
+theme: readthedocs
+
+
